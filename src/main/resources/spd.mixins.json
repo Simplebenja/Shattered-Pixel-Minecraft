@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.drbenja.spd.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "LivingEntityBlockSpeedMixin",
+    "EntityMakeStuckInBlockMixin",
+    "EntityBlockSpeedFactorMixin",
+    "EntityBlockJumpFactorMixin",
+    "MobAmokFallDistanceMixin",
+    "WalkNodeEvaluatorAmokMixin",
+    "NodeEvaluatorAccessor"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "spd:item/splash_potion_of_earthen_armor" }
+}

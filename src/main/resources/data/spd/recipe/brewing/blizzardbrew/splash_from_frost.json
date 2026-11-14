@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:brewing",
+  "input": {
+    "item": "minecraft:splash_potion",
+    "potion_contents": { "potions": "spd:potion_of_frost" }
+  },
+  "reagent": { "item": "minecraft:lapis_block" },
+  "output": {
+    "id": "minecraft:splash_potion",
+    "components": {
+      "minecraft:potion_contents": { "potion": "spd:blizzard_brew" }
+    }
+  }
+}

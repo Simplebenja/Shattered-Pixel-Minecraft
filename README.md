@@ -1,0 +1,1 @@
+Item and effect textures from Pixel Dungeon by Watabou and Shattered Pixel Dungeon by Evan Debenham (00-Evan). Unofficial fan content; not affiliated with the original authors.

@@ -1,0 +1,23 @@
+{
+  "anvil_cost": 2,
+  "description": {
+    "translate": "enchantment.spd.crystal"
+  },
+  "effects": {},
+  "max_cost": {
+    "base": 25,
+    "per_level_above_first": 0
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 15,
+    "per_level_above_first": 0
+  },
+  "primary_items": "#spd:enchantable/spd_weapon",
+  "supported_items": "#spd:enchantable/spd_weapon",
+  "slots": [
+    "mainhand"
+  ],
+  "weight": 2,
+  "exclusive_set": "#spd:exclusive_set/crystal"
+}

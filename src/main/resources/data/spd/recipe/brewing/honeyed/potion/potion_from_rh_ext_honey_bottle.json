@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:brewing",
+  "input": {
+    "item": "minecraft:potion",
+    "potion_contents": {
+      "potions": "spd:potion_of_regenerative_healing_ext"
+    }
+  },
+  "reagent": {
+    "item": "minecraft:honey_bottle"
+  },
+  "output": {
+    "id": "minecraft:potion",
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "spd:elixir_of_honeyed_healing_ext"
+      }
+    }
+  }
+}

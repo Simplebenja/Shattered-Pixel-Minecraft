@@ -1,0 +1,194 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:potion_contents",
+    "cases": [
+      {
+        "when": [ "spd:elixir_of_toxic_essence" ],
+        "model": { "type": "minecraft:model", "model": "spd:item/lingering_elixir_of_toxic_essence" }
+      },
+
+      {
+        "when": [ "spd:elixir_of_arcane_armor" ],
+        "model": { "type": "minecraft:model", "model": "spd:item/lingering_elixir_of_arcane_armor" }
+      },
+
+      {
+        "when": [ "spd:potion_of_earthen_armor" ],
+        "model": { "type": "minecraft:model", "model": "spd:item/lingering_potion_of_earthen_armor" }
+      },
+
+      {
+        "when": [ "spd:elixir_of_dragons_blood" ],
+        "model": { "type": "minecraft:model", "model": "spd:item/lingering_elixir_of_dragons_blood" }
+      },
+
+      {
+        "when": [
+          "spd:elixir_of_icy_touch_0",
+          "spd:elixir_of_icy_touch_ext",
+          "spd:elixir_of_icy_touch_1"
+        ],
+        "model": { "type": "minecraft:model", "model": "spd:item/lingering_elixir_of_icy_touch" }
+      },
+
+      {
+        "when": [
+          "spd:potion_of_mind_vision_0",
+          "spd:potion_of_mind_vision_ext",
+          "spd:potion_of_mind_vision_1"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "spd:item/lingering_potion_of_mind_vision"
+        }
+      },
+      {
+        "when": [
+          "spd:elixir_of_might_0",
+          "spd:elixir_of_might_ext",
+          "spd:elixir_of_might_1"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "spd:item/lingering_elixir_of_might"
+        }
+      },
+      {
+        "when": [
+          "spd:potion_of_invisibility_0",
+          "spd:potion_of_invisibility_ext"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "spd:item/lingering_potion_of_invisibility"
+        }
+      },
+      {
+        "when": [
+          "spd:elixir_of_aquatic_rejuvenation_0",
+          "spd:elixir_of_aquatic_rejuvenation_1",
+          "spd:elixir_of_aquatic_rejuvenation_2",
+          "spd:elixir_of_aquatic_rejuvenation_ext",
+          "spd:elixir_of_aquatic_rejuvenation_1_ext"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "spd:item/lingering_elixir_of_aquatic_rejuvenation"
+        }
+      },
+      {
+        "when": [
+          "spd:elixir_of_honeyed_healing_0",
+          "spd:elixir_of_honeyed_healing_1",
+          "spd:elixir_of_honeyed_healing_2",
+          "spd:elixir_of_honeyed_healing_ext",
+          "spd:elixir_of_honeyed_healing_1_ext"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "spd:item/lingering_elixir_of_honeyed_healing"
+        }
+      },
+      {
+        "when": [
+          "spd:potion_of_regenerative_healing_0",
+          "spd:potion_of_regenerative_healing_1",
+          "spd:potion_of_regenerative_healing_2",
+          "spd:potion_of_regenerative_healing_ext",
+          "spd:potion_of_regenerative_healing_1_ext"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "spd:item/lingering_potion_of_regenerative_healing"
+        }
+      },
+      {
+        "when": [
+          "spd:potion_of_shielding_0",
+          "spd:potion_of_shielding_1",
+          "spd:potion_of_shielding_2",
+          "spd:potion_of_shielding_ext",
+          "spd:potion_of_shielding_1_ext"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "spd:item/lingering_potion_of_shielding"
+        }
+      },
+      {
+        "when": [
+          "spd:potion_of_experience_0",
+          "spd:potion_of_experience_1"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "spd:item/lingering_potion_of_experience"
+        }
+      },
+      {
+        "when": [
+          "spd:potion_of_haste_0",
+          "spd:potion_of_haste_ext",
+          "spd:potion_of_haste_1"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "spd:item/lingering_potion_of_haste"
+        }
+      },
+      {
+        "when": [
+          "spd:potion_of_stamina_0",
+          "spd:potion_of_stamina_ext",
+          "spd:potion_of_stamina_1"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "spd:item/lingering_potion_of_stamina"
+        }
+      },
+      {
+        "when": [
+          "spd:potion_of_purity_0",
+          "spd:potion_of_purity_ext"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "spd:item/lingering_potion_of_purity"
+        }
+      },
+      {
+        "when": [
+          "spd:potion_of_cleansing_0",
+          "spd:potion_of_cleansing_ext"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "spd:item/lingering_potion_of_cleansing"
+        }
+      },
+      {
+        "when": [
+          "spd:potion_of_levitation_0",
+          "spd:potion_of_levitation_ext"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "spd:item/lingering_potion_of_levitation"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/lingering_potion",
+      "tints": [
+        {
+          "type": "minecraft:potion",
+          "default": -13083194
+        }
+      ]
+    }
+  }
+}

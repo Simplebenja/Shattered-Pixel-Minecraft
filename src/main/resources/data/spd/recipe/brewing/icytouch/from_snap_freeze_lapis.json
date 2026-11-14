@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:brewing",
+  "input": {
+    "item": "minecraft:splash_potion",
+    "potion_contents": { "potions": "spd:potion_of_snap_freeze" }
+  },
+  "reagent": { "item": "minecraft:lapis_lazuli" },
+  "output": {
+    "id": "minecraft:potion",
+    "components": {
+      "minecraft:potion_contents": { "potion": "spd:elixir_of_icy_touch_0" }
+    }
+  }
+}

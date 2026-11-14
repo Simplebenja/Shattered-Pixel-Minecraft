@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "spd:chilling",
+    "spd:shocking",
+    "spd:blazing",
+    "spd:kinetic",
+    "spd:blocking",
+    "spd:projecting",
+    "spd:grim",
+    "spd:vampiric",
+    "spd:corrupting",
+    "spd:venomous",
+    "spd:vorpal",
+    "spd:eldritch",
+    "spd:crystal",
+    "spd:obfuscation",
+    "spd:swiftness",
+    "spd:viscosity",
+    "spd:potential",
+    "spd:brimstone",
+    "spd:entanglement",
+    "spd:repulsion",
+    "spd:camouflage",
+    "spd:flow",
+    "spd:affection",
+    "spd:anti_magic",
+    "spd:bloody_thorns"
+  ]
+}

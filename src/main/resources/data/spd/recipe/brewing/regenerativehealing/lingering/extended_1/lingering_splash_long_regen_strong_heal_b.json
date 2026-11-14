@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:brewing",
+  "input": {
+    "item": "minecraft:lingering_potion",
+    "potion_contents": {
+      "potions": "minecraft:strong_healing"
+    }
+  },
+  "reagent": {
+    "item": "minecraft:splash_potion",
+    "potion_contents": {
+      "potions": "minecraft:long_regeneration"
+    }
+  },
+  "output": {
+    "id": "minecraft:lingering_potion",
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "spd:potion_of_regenerative_healing_1_ext"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "anvil_cost": 4,
+  "description": {
+    "translate": "enchantment.spd.corrupting"
+  },
+  "effects": {},
+  "max_cost": {
+    "base": 50,
+    "per_level_above_first": 10
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 15,
+    "per_level_above_first": 10
+  },
+  "primary_items": "#spd:enchantable/spd_weapon",
+  "supported_items": "#spd:enchantable/spd_weapon",
+  "slots": [
+    "mainhand"
+  ],
+  "weight": 1
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "spd:scroll_of_retribution"
+  ],
+  "result": {
+    "id": "spd:stone_of_blast",
+    "count": 2
+  }
+}

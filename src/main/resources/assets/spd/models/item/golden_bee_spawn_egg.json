@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "spd:item/golden_bee_spawn_egg_generated"
+  }
+}

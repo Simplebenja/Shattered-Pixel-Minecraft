@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#minecraft:enchantable/leg_armor",
+    {
+      "id": "#c:armors/leggings",
+      "required": false
+    }
+  ]
+}

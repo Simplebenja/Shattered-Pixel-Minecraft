@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:bone"
+  ],
+  "result": {
+    "id": "spd:scroll_of_terror",
+    "count": 1
+  }
+}

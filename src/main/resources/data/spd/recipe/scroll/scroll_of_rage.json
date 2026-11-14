@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:redstone"
+  ],
+  "result": {
+    "id": "spd:scroll_of_rage",
+    "count": 1
+  }
+}

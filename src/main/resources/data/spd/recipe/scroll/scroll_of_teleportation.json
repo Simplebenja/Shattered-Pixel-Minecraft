@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:ender_pearl"
+  ],
+  "result": {
+    "id": "spd:scroll_of_teleportation",
+    "count": 1
+  }
+}

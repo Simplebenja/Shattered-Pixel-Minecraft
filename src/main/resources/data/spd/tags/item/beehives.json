@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:beehive",
+    {
+      "id": "#c:beehives",
+      "required": false
+    }
+  ]
+}

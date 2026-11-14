@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="DrBenja"
+credits="Pixel Dungeon by Watabou and Shattered Pixel Dungeon by Evan Debenham (00-Evan). Thanks for your games."
+bannerFile="spd_logo.png"
+iconFile="spd_logo.png"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/shattered-pixelcraft"
+issueTrackerURL="https://github.com/Simplebenja/Shattered-Pixel-Minecraft/issues"
+description='''
+Shattered Pixel Dungeon inspired content for Minecraft. Unofficial fan work; not affiliated with the original authors.
+'''
+
+[[mixins]]
+config="spd.mixins.json"
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

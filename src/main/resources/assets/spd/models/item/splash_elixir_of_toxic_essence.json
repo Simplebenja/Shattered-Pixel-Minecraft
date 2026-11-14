@@ -1,0 +1,4 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "spd:item/splash_elixir_of_toxic_essence" }
+}

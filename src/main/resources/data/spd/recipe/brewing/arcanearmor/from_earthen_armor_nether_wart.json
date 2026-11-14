@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:brewing",
+  "input": {
+    "item": "minecraft:potion",
+    "potion_contents": { "potions": "spd:potion_of_earthen_armor" }
+  },
+  "reagent": { "item": "minecraft:nether_wart" },
+  "output": {
+    "id": "minecraft:potion",
+    "components": {
+      "minecraft:potion_contents": { "potion": "spd:elixir_of_arcane_armor" }
+    }
+  }
+}

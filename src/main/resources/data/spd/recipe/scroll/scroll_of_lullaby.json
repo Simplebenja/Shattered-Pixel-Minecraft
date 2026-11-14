@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "#spd:music_discs"
+  ],
+  "result": {
+    "id": "spd:scroll_of_lullaby",
+    "count": 1
+  }
+}

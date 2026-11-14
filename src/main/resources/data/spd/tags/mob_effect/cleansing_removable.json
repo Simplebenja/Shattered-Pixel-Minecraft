@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bad_omen",
+    "minecraft:trial_omen",
+    "minecraft:raid_omen"
+  ]
+}

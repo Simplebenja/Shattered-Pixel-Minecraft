@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:skeleton",
+    "minecraft:stray",
+    "minecraft:wither_skeleton",
+    "minecraft:bogged",
+    "minecraft:vex",
+    "minecraft:iron_golem",
+    "minecraft:snow_golem",
+    {
+      "id": "minecraft:copper_golem",
+      "required": false
+    },
+    "minecraft:end_crystal",
+    "minecraft:phantom",
+    "minecraft:ghast",
+    "minecraft:blaze",
+    "minecraft:creaking",
+    "minecraft:breeze",
+    "minecraft:wither",
+    "minecraft:armor_stand",
+    "minecraft:item_frame",
+    "minecraft:glow_item_frame"
+  ]
+}

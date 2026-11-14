@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:brewing",
+  "input": {
+    "item": "minecraft:potion",
+    "potion_contents": { "potions": "spd:elixir_of_dragons_blood" }
+  },
+  "reagent": { "item": "minecraft:gunpowder" },
+  "output": {
+    "id": "minecraft:splash_potion",
+    "components": {
+      "minecraft:potion_contents": { "potion": "spd:elixir_of_dragons_blood" }
+    }
+  }
+}

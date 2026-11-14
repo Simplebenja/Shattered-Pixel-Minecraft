@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:brewing",
+  "input": {
+    "item": "minecraft:splash_potion",
+    "potion_contents": { "potions": "spd:potion_of_toxic_gas" }
+  },
+  "reagent": { "item": "minecraft:slime_ball" },
+  "output": {
+    "id": "minecraft:splash_potion",
+    "components": {
+      "minecraft:potion_contents": { "potion": "spd:caustic_brew" }
+    }
+  }
+}

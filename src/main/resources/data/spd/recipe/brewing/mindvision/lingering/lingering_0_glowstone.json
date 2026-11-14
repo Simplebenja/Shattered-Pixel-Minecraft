@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:brewing",
+  "input": {
+    "item": "minecraft:lingering_potion",
+    "potion_contents": {
+      "potions": "spd:potion_of_mind_vision_0"
+    }
+  },
+  "reagent": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "output": {
+    "id": "minecraft:lingering_potion",
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "spd:potion_of_mind_vision_1"
+      }
+    }
+  }
+}

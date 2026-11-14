@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "spd:scroll_of_lullaby"
+  ],
+  "result": {
+    "id": "spd:stone_of_deep_sleep",
+    "count": 2
+  }
+}

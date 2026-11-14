@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "spd:scroll_of_mirror_image",
+    "minecraft:lapis_lazuli"
+  ],
+  "result": {
+    "id": "spd:scroll_of_prismatic_image",
+    "count": 1
+  }
+}

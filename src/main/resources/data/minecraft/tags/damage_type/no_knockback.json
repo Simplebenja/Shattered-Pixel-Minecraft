@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "spd:bleeding",
+    "spd:caustic_ooze",
+    "spd:corrosive",
+    "spd:corruption",
+    "spd:deferred_damage",
+    "spd:toxic"
+  ]
+}
+

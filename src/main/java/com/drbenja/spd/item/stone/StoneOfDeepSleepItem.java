@@ -1,0 +1,24 @@
+package com.drbenja.spd.item.stone;
+
+import net.minecraft.server.level.ServerLevel;
+import net.minecraft.world.effect.MobEffectInstance;
+import net.minecraft.world.entity.LivingEntity;
+import net.minecraft.world.entity.player.Player;
+import net.minecraft.world.phys.HitResult;
+import net.minecraft.world.phys.Vec3;
+
+import com.drbenja.spd.init.ModEffects;
+
+public class StoneOfDeepSleepItem extends SpdStoneItem {
+    public StoneOfDeepSleepItem(Properties props) {
+        super(props);
+    }
+
+    @Override
+    public void onImpact(ServerLevel level, Player thrower, HitResult hit, Vec3 impactPos) {
+        LivingEntity target = resolveTarget(level, hit, impactPos, thrower);
+        if (target == null) return;
+        target.addEffect(new MobEffectInstance(ModEffects.MAGICAL_SLEEP,
+                MobEffectInstance.INFINITE_DURATION, 0, false, true, true));
+    }
+}

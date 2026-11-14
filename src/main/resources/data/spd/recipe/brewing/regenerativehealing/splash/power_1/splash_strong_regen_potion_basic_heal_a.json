@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:brewing",
+  "input": {
+    "item": "minecraft:splash_potion",
+    "potion_contents": {
+      "potions": "minecraft:strong_regeneration"
+    }
+  },
+  "reagent": {
+    "item": "minecraft:potion",
+    "potion_contents": {
+      "potions": "minecraft:healing"
+    }
+  },
+  "output": {
+    "id": "minecraft:splash_potion",
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "spd:potion_of_regenerative_healing_1"
+      }
+    }
+  }
+}

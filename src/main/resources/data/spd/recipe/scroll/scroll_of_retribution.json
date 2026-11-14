@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:glowstone_dust"
+  ],
+  "result": {
+    "id": "spd:scroll_of_retribution",
+    "count": 1
+  }
+}
